@@ -58,6 +58,10 @@ Hacer un archivo de excel de drive. Una vez teneindo eso seleccionamos --> exten
 ![2](https://github.com/DanielChaparro82/SmartPill-Dispensador-de-pastillas-inteligente/assets/135756954/6f14c615-1d17-4ae6-b95e-5ca2740a95dd)
 
 # Instrucciones
+## Circuito
+A continuación se muestra una propuesta de circuito para el RFID
+![ESP8266 - RFID](https://github.com/DanielChaparro82/SmartPill-Dispensador-de-pastillas-inteligente/assets/135756954/f86b3543-46f3-4e9d-b604-f9ca85660dd9)
+
 ## Configuracion de tarjetas 
 1. En la linea 14 del codigo se configura al nombre con la que se quiere registar la tarjeta NOTA: no debe de contener espacios
 
