@@ -55,13 +55,15 @@ Hacer un archivo de excel de drive. Una vez teneindo eso seleccionamos --> exten
 
 ![1](https://github.com/DanielChaparro82/SmartPill-Dispensador-de-pastillas-inteligente/assets/135756954/02b14edf-b58a-46ee-b4f1-5a40b5447324)
 
+![2](https://github.com/DanielChaparro82/SmartPill-Dispensador-de-pastillas-inteligente/assets/135756954/6f14c615-1d17-4ae6-b95e-5ca2740a95dd)
+
 # Instrucciones
-# Configuracion de tarjetas 
+## Configuracion de tarjetas 
 1. En la linea 14 del codigo se configura al nombre con la que se quiere registar la tarjeta NOTA: no debe de contener espacios
 
 2. Por último se carga el codigo al esp8266 y pasamos la tarjeta en el sensor para que configure el nombre de la tarjeta 
 
-# Configuracion para el envio de datos con el sensor RFID
+## Configuracion para el envio de datos con el sensor RFID
 1. En una linea nos pedira la Huella digital para URL la cual podemos obtener de la sigiente manera --> nos vamos al archivo xcel de drive --> en la pate superior 
 de la pagina se encuentra un candado le damos click
 
