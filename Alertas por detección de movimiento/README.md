@@ -26,10 +26,16 @@ Para poder subir el codigo a nuestro Arduino Uno requerimos tener previamente in
 ## Agregar tarjeta ESP32
 Para agregar la url de la tarjeta del Esp32 debemos ir al Arduino IDE y seleccionar Archivo -> Preferencias
 
+![Tarjeta ESP32 1](https://github.com/DanielChaparro82/SmartPill-Dispensador-de-pastillas-inteligente/assets/135756954/e3851425-a7ba-4aa9-b55b-cacc1578f94c)
+
 Luego en "Gestor de URLs Adicionales de Tarjeta" agregamos: https://raw.githubusercontent.com/espressif/arduino-esp32/gh-pages/package_esp32_index.json
+
+![Tarjeta ESP32 2](https://github.com/DanielChaparro82/SmartPill-Dispensador-de-pastillas-inteligente/assets/135756954/99d89824-82ed-44ba-a64b-89152395e312)
 
 ## Agregar librerias
 Las librerías utilizadas en este proyecto son "ArduinoJson" y "UniversalTelegramBot", se pueden instalar desde el gestor de librería del IDE Arduino. También se pueden descargar directamente e instalarlas desde  Sketch -> Include Library -> Add .ZIP Library
+
+![Libreria ZIP](https://github.com/DanielChaparro82/SmartPill-Dispensador-de-pastillas-inteligente/assets/135756954/77bd9b17-445a-4f13-95e4-dc4bad0496f7)
 
 Universal Telegram Bot: https://github.com/witnessmenow/Universal-Arduino-Telegram-Bot
 
