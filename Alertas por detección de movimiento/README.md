@@ -17,6 +17,7 @@ Combinar tecnologías de detección de movimiento, comunicación inalámbrica y 
 - Jumpers
 ## Software
 - IDE Arduino
+- Telegram
 
 # Requisitos previos
 ## IDE Arduino
@@ -61,6 +62,10 @@ A continuación se debera subir el código a la ESP32 en modo de programación
 Posteriormente se debera realizar la siguiente conexión
 
 ![ESP32-CAM-PIR](https://github.com/DanielChaparro82/SmartPill-Dispensador-de-pastillas-inteligente/assets/135756954/19bf6c36-dc7b-425b-b967-b4804bd46486)
+
+# Configuración del Bot de Telegram
+El bot puede ser configurado de acuerdo a las necesidades del usuario, se puede tomar como referencia el siguiente enlace
+https://blog.330ohms.com/2021/03/09/crea-tu-propio-bot-de-telegram-con-esp32/ 
 
 # Referencias externas
 - [Como configurar un bot de Telegram](https://blog.330ohms.com/2021/03/09/crea-tu-propio-bot-de-telegram-con-esp32/)
