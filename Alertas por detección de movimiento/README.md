@@ -70,3 +70,5 @@ https://blog.330ohms.com/2021/03/09/crea-tu-propio-bot-de-telegram-con-esp32/
 # Referencias externas
 - [Como configurar un bot de Telegram](https://blog.330ohms.com/2021/03/09/crea-tu-propio-bot-de-telegram-con-esp32/)
 - [Alarma con Esp32 CAM y Telegram](https://github.com/electrodeuna/alarm-esp32cam/tree/main)
+- [Configuración de IDE Arduino para ESP32 CAM](https://edu.codigoiot.com/mod/subcourse/view.php?id=3922)
+- [Conectar el ESP32 CAM a Wi-fi](https://edu.codigoiot.com/mod/subcourse/view.php?id=3929)
