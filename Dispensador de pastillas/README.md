@@ -26,4 +26,4 @@ Asegurar que las personas tomen sus medicamentos en el horario adecuado por medi
 
 # Referencias externas
 
-# Instrucciones
+# Agregar librerias
