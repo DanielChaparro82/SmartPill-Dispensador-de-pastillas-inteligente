@@ -23,7 +23,19 @@ Asegurar que las personas tomen sus medicamentos en el horario adecuado por medi
 - IDE Arduino
 
 # Requisitos previos
+## IDE Arduino
+Para poder subir el codigo a nuestro Arduino Uno requerimos tener previamente instalado el software IDE Arduino.
+[Arduino Software](https://www.arduino.cc/en/software)
 
-# Referencias externas
+## Agregar librerias
+Las librerías utilizadas en este proyecto son "LiquidCrystal_I2C", "virtuabotixRTC" y "RTClib" se pueden instalar desde el gestor de librería del IDE Arduino. También se pueden descargar directamente e instalarlas desde  Sketch -> Include Library -> Add .ZIP Library
 
-# Agregar librerias
+Incorporación por Gestor de librerias
+
+![Gestor de librerias](https://github.com/DanielChaparro82/SmartPill-Dispensador-de-pastillas-inteligente/assets/135756954/b9cf3ac4-be7d-47d7-baea-e3392f4bdba0)
+
+Incorporación como libreria .ZIP
+
+![Libreria ZIP](https://github.com/DanielChaparro82/SmartPill-Dispensador-de-pastillas-inteligente/assets/135756954/77bd9b17-445a-4f13-95e4-dc4bad0496f7)
+
+## Referencias externas
