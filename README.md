@@ -41,7 +41,8 @@ Para realizar todos las practicas dentro del repositorio se debera de contar con
 - Telegram
 
 # Material de referencia 
-- [Youtube SmartPill]
+- [Plataforma IoT](https://edu.codigoiot.com/course/view.php?id=1039)
+- [Youtube SmartPill]()
 - [Como hacer un bot de Telegram](https://blog.330ohms.com/2021/03/09/crea-tu-propio-bot-de-telegram-con-esp32/)
 - [Proyecto con Esp32 CAM y Sensor de Movimiento](https://www.youtube.com/watch?v=WOb1QoqDoiI)
 - [Universal Arduino Telegram Bot](https://github.com/witnessmenow/Universal-Arduino-Telegram-Bot)
