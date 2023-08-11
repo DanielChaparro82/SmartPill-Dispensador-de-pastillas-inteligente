@@ -25,7 +25,7 @@ Para poder subir el codigo a nuestro Arduino Uno requerimos tener previamente in
 [Arduino Software](https://www.arduino.cc/en/software)
 
 ## Google drive
-Generar un archivo con el formato de hoja de cálculo en Google Drive
+Generar un archivo con el formato de hoja de cálculo en Google Drive. https://drive.google.com
 
 ## Agregar tarjetas ESP8266
 Para agregar la url de la tarjeta del URLs debemos ir al Arduino IDE y seleccionar Archivo -> Preferencias
