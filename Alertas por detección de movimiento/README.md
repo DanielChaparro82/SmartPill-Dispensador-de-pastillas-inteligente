@@ -39,5 +39,15 @@ Las librerías utilizadas en este proyecto son "ArduinoJson" y "UniversalTelegra
 
 Universal Telegram Bot: https://github.com/witnessmenow/Universal-Arduino-Telegram-Bot
 
+# Instrucciones
+Una vez descargado y abierto el codigo en el IDE Arduino se debera de seleccionar la pestaña Tools y seleccionar las siguientes configuraciones:
+- Board: "AI Thinker ESP32-CAM"
+- CPU Frequency: "240MHz (Wifi/BT)"
+- Flash Frequency: "80MHz"
+- Flash Mode: "QIO"
+- Partition Scheme: "Huge APP (3MB No OTA/1MB SPIFFS)"
+
+![Configuración](https://github.com/DanielChaparro82/SmartPill-Dispensador-de-pastillas-inteligente/assets/135756954/09e49816-d1b2-4327-8391-9ece7ae2a6ee)
+
 # Referencias externas
 [Alarma con Esp32 CAM y Telegram](https://github.com/electrodeuna/alarm-esp32cam/tree/main)
