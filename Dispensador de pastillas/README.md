@@ -38,4 +38,25 @@ Incorporación como libreria .ZIP
 
 ![Libreria ZIP](https://github.com/DanielChaparro82/SmartPill-Dispensador-de-pastillas-inteligente/assets/135756954/77bd9b17-445a-4f13-95e4-dc4bad0496f7)
 
-## Referencias externas
+# Instrucciones
+
+Propuesta de circuito para dispensador de pastillas
+
+![ARDUINO](https://github.com/DanielChaparro82/SmartPill-Dispensador-de-pastillas-inteligente/assets/135756954/ab8f0ff6-2e38-4305-bc92-a9bcc7f980c3)
+
+Nota:
+- Push button Amarillo: Desplazamiento entre menús
+- Push button Verde: Cambiar de opción
+- Push button Azul: Cambiar valor de variables
+
+Una vez descargado y abierto el código en el IDE Arduino se debera seleccionar la pestaña Tools y seleccionar las siguientes configuración:
+- Board: "Arduino UNO"
+
+![Arduino UNO](https://github.com/DanielChaparro82/SmartPill-Dispensador-de-pastillas-inteligente/assets/135756954/cd3221a1-d55c-4910-800d-09dd78e39e12)
+
+A continuación se debera subir el código al ArDuino UNO
+
+![Upload Arduino](https://github.com/DanielChaparro82/SmartPill-Dispensador-de-pastillas-inteligente/assets/135756954/4045d7a4-2ac0-40c4-bd68-f2c3a43533c0)
+
+# Referencias externas
+- [Simple & Easy Arduino Clock with DS1302](https://www.youtube.com/watch?v=s4ymtoTa_eo)
