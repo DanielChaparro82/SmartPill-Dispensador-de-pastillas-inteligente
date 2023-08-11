@@ -6,11 +6,21 @@ Asegurar que las personas tomen sus medicamentos en el horario adecuado por medi
 
 # Materiales
 ## Hardware
-- 
-- 
+- Arduino UNO
+- LCD 16×2
+- Protoboard
+- Modulo I2C
+- RTC DS1302
+- Cable USB a Mini USB
+- Servomotores 9g
+- Cable USB A/B
+- Push buttons
+- Baterías 9V
+- Jumpers
+- Buzzer
+  
 ## Software
-- 
-- 
+- IDE Arduino
 
 # Requisitos previos
 
